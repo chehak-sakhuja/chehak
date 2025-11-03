@@ -1,4 +1,4 @@
 # chehak
 this my first repository
 <br>
-author- chehak sakhuja
+author- chehak sakhuja (student)
